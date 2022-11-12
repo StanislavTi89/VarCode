@@ -60,9 +60,9 @@ public class Main {
 
         //Задание 8
         var fullTime = 640;
-        System.out.println(fullTime);
+        System.out.println(fullTime + " часов работы поделено между сотрудниками");
         var oneMan = 8;
-        System.out.println(oneMan);
+        System.out.println("каждый сотрудник посвящает работе " + oneMan + " часов");
         var totalCompany1 = fullTime / oneMan;
         System.out.println("Всего работников в компании " + totalCompany1 + " человек");
         var totalCompany2 = totalCompany1 + 94;
