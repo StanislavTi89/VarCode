@@ -46,9 +46,9 @@ public class Main {
 
         //Задание 6
         var firstBoxer = 78.2;
-        System.out.println(firstBoxer);
+        System.out.println(firstBoxer + " кг" + " Вес первого боксера");
         var secondBoxer = 82.7;
-        System.out.println(secondBoxer);
+        System.out.println(secondBoxer + " кг" + " Вес второго боксера");
         var vegetablesBoxer = firstBoxer + secondBoxer;
         System.out.println("Общий вес боксеров " + vegetablesBoxer + " кг!");
         var differenceBoxer = (firstBoxer - secondBoxer);
