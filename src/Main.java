@@ -66,7 +66,7 @@ public class Main {
         var totalCompany1 = fullTime / oneMan;
         System.out.println("Всего работников в компании " + totalCompany1 + " человек");
         var totalCompany2 = totalCompany1 + 94;
-        System.out.println("Если в компании работает " + totalCompany2 + " человек, то всего " + (totalCompany2 * oneMan) + " часов работы может быть поделено между сотрудниками");
+        System.out.println("Если в компании работает " + totalCompany2 + " человека, то всего " + (totalCompany2 * oneMan) + " часов работы может быть поделено между сотрудниками");
 
     }
 }
