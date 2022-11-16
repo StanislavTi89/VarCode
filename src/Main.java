@@ -3,6 +3,7 @@ public class Main {
         System.out.println("DoGvsCaT&PaperPls_Переменные");
 
         //Задача 1
+        System.out.println("Задача 1");
         double dog = 8;
         System.out.println(dog);
         var cat = 3.6;
@@ -11,6 +12,7 @@ public class Main {
         System.out.println(paper);
 
         //Задача 2
+        System.out.println("Задача 2");
         dog = dog + 4;
         System.out.println(dog);
         cat = cat +4;
@@ -19,6 +21,7 @@ public class Main {
         System.out.println(paper);
 
         //Задача 3
+        System.out.println("Задача 3");
         dog = dog - 3.5;
         System.out.println(dog);
         cat = (double) cat - 1.6;
@@ -27,6 +30,7 @@ public class Main {
         System.out.println(paper);
 
         //Задание 4
+        System.out.println("Задача 4");
         double friend = 19;
         System.out.println(friend);
         friend = friend * 2;
@@ -35,6 +39,7 @@ public class Main {
         System.out.println(friend);
 
         //Задание 5
+        System.out.println("Задача 5");
         var frog = 3.5;
         System.out.println(frog);
         frog = frog * 10;
@@ -45,6 +50,7 @@ public class Main {
         System.out.println(frog);
 
         //Задание 6
+        System.out.println("Задача 6");
         var firstBoxer = 78.2;
         System.out.println(firstBoxer + " кг" + " Вес первого боксера");
         var secondBoxer = 82.7;
@@ -55,10 +61,12 @@ public class Main {
         System.out.println("Разница между боксерами " + differenceBoxer +" кг!");
 
         //Задание 7
+        System.out.println("Задача 7");
         var overBoxer = (secondBoxer - firstBoxer) % vegetablesBoxer;
         System.out.println("Разница между боксерами " + overBoxer + " кг!");
 
         //Задание 8
+        System.out.println("Задача 8");
         var fullTime = 640;
         System.out.println(fullTime + " часов работы поделено между сотрудниками");
         var oneMan = 8;
